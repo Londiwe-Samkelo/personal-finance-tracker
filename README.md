@@ -3,15 +3,15 @@
 ## What is this?
 A data engineering project that builds a simple ETL (Extract, Transform, Load) pipeline for personal finance data. The pipeline reads transaction data from a CVS file, cleans, and processes it using Python and Pandas, stores it in a SQL database, and allows querying for financial insights.
 
-## Why i built this
+## Why I built this
 I am an aspiring developer with a passion for both technology and finance. 
 This project sits at the intersection of data engineering and FinTech - the space I am working towards in my career. 
 
 ## Tech Stack 
--Python
--Pandas
--SQLite
--SQL
+- Python
+- Pandas
+- SQLite
+- SQL
 
 ## Project Stages
 - [ ] Stage 1: Project setup and sample data
