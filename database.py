@@ -9,7 +9,7 @@ def create_database():
     #create transactions table
     cursor.execute('''
             CREATE TABLE IF NOT EXISTS transactions (
-                   id INTERGER PRIMARY KEY AUTOINCREMENT,
+                   id INTEGER PRIMARY KEY AUTOINCREMENT,
                    data TEXT NOT NULL,
                    description TEXT NOT NULL,
                    amount REAL NOT NULL,
