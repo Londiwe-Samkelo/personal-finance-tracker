@@ -14,10 +14,10 @@ This project sits at the intersection of data engineering and FinTech - the spac
 - SQL
 
 ## Project Stages
-- [ ] Stage 1: Project setup and sample data
-- [ ] Stage 2: Data cleaning and processing (ETL)
-- [ ] Stage 3: Database design and loading
-- [ ] Stage 4: SQL queries and insights
+- [x] Stage 1: Project setup and sample data
+- [x] Stage 2: Data cleaning and processing (ETL)
+- [x] Stage 3: Database design and loading
+- [x] Stage 4: SQL queries and insights
 - [ ] Stage 5: Demo and documentation
 
 ## Demo
